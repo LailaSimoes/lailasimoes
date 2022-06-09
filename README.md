@@ -1,4 +1,4 @@
-### Olá! Eu sou a Laila Simões 
+### Hi dear, I'm Laila Simões
 
 🎒 Dev Full Stack JR.
 
