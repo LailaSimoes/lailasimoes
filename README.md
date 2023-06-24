@@ -1,6 +1,6 @@
-### Hi dear, I'm Laila Simões
+### Hi, I'm Laila Simões
 
-🎒 Dev Full Stack JR.
+🎒 In Learning
 
 <div>
   <a  href="https://github.com/LailaSimoes">
